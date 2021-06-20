@@ -1,0 +1,12 @@
+﻿'Project1.exe' (Win32): Loaded 'D:\learn python\Project1\Debug\Project1.exe'. Symbols loaded.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x3164 has exited with code 0 (0x0).
+The thread 0x3e54 has exited with code -1073741510 (0xc000013a).
+The thread 0x11dc has exited with code -1073741510 (0xc000013a).
+The thread 0xe8c has exited with code -1073741510 (0xc000013a).
+The thread 0x18bc has exited with code -1073741510 (0xc000013a).
+The program '[260] Project1.exe' has exited with code -1073741510 (0xc000013a).
